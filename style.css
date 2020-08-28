@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Montserrat-Regular;
+    src: url('./fonts/montserrat-regular.ttf');
+}
+@font-face {
+    font-family: Montserrat-Bold;
+    src: url('./fonts/Montserrat-Bold.ttf');
+}
+@font-face {
+    font-family: Montserrat-Black;
+    src: url('./fonts/Montserrat-Black.ttf');
+}
+@font-face {
+    font-family: PatuaOne-Regular;
+    src: url('./fonts/PatuaOne-Regular.ttf');
+}
+@font-face {
+    font-family: Pacifico-Regular;
+    src: url('./fonts/Pacifico-Regular.ttf');
+}
+
+* {
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    white-space: 0;
+}
+
