@@ -1,2 +1,3 @@
-# Belajar Mandiri WBD
-[IF3110] Belajar Mandiri: HTML &amp; CSS (IF3110 Pengembangan Aplikasi Berbasis Web (1-2020))
+# Web Portofolio V1
+
+My very simple web portofolio (Version 1), made with HTML and CSS only
